@@ -90,10 +90,8 @@ section{
     list-style-type: none;
 }
 #target .flex-item{
-    /* background-color: white; */
     padding: 15px;
     border-radius: 20px;
-    /* box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px; */
 }
 #target img{
     width: 100%;
