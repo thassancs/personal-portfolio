@@ -1,2 +1,0 @@
-# food-network
-# personal-portfolio
